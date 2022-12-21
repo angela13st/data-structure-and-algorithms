@@ -1,0 +1,3 @@
+﻿  vjezba3.c
+C:\Users\apath\OneDrive\Radna površina\spa\vjezba3\vjezba3\vjezba3.c(115,18): warning C4244: 'function': conversion from 'time_t' to 'unsigned int', possible loss of data
+  vjezba3.vcxproj -> C:\Users\apath\OneDrive\Radna površina\spa\vjezba3\Debug\vjezba3.exe
